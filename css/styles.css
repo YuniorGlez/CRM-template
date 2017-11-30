@@ -1,0 +1,18 @@
+.customer .caption{
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+
+/* TODO: Aplica estilo aquí a los inputs cuando tengan las clases de angular
+    sobre las validaciones que te interesen
+
+    El campo tiene que quedar con borde rojo cuando el usuario ha pasado ya por el campo
+    y el campo tiene un valor invalido
+
+    El campo tiene que ponerse de verde cuando el usuario ha pasado ya por el campo
+    y tiene un valor valido
+    */
+input {
+
+}
